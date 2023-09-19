@@ -1,0 +1,16 @@
+{
+  "name": "worplify.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".elventy.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
